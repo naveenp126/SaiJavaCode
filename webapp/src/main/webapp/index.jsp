@@ -1,5 +1,5 @@
-<h1> Hello Dear Students !! Welcome to DevOps Project-2 !! </h1>
-<h2> By Mr. Sai from Saidemy </h2>
-<h2> Devops project started </h2>
-<h2> sucessfully deployed code into tomcat through ansible server and nodes automatically by using jenkins </h2>
-<h2> sucessfully completed devops project-2 using ansible and docker </h2>
+<h1> Hello !! Welcome to DevOps practice!! </h1>
+<h2> By Mr.DevOps Engineer</h2>
+<h2> Devops practice started </h2>
+<h2> sucessfully deployed code into tomcat automatically by using jenkins declarative pipeline code </h2>
+
